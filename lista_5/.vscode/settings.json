@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "*tsx": "typescriptreact",
+        "*.cpp": "cpp",
+        "*.html": "html",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "numeric": "cpp",
+        "utility": "cpp"
+    }
+}
