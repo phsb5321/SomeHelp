@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "*tsx": "typescriptreact",
+        "*.cpp": "cpp",
+        "*.html": "html",
+        "*.txt": "plaintext",
+        "ostream": "cpp"
+    }
+}
